@@ -1,6 +1,7 @@
-# **VEX 1727N**  <br>
+# **VEX 1727N**  
 
 
+---
 ## 2022-2023 || Spin Up
 
 > ## [Shiqi](https://github.com/lumx7)
